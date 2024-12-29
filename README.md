@@ -10,11 +10,11 @@ et le fichier test.csv pour tester l'efficacité
 
 ## Installez les bibliothèques listées dans `requirements.txt`.
 
-##utilisation : 
+## Utilisation : 
 clonez ce depot sur ordinateur 
 executer le code de l'interface : intrfaceeNLP.py
 
-realisé par : 
+## realisé par : 
 azoug lina celia
 lekhdari dihia
 belkacem manil zouhir
