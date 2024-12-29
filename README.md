@@ -10,12 +10,12 @@ et le fichier test.csv pour tester l'efficacité
 
 ## Installez les bibliothèques listées dans `requirements.txt`.
 
-## Utilisation : 
+## Utilisation 
 -clonez ce depot sur ordinateur.
 -decompressez train.csv.
 -executer le code de l'interface : intrfaceeNLP.py .
 
-## realisé par : 
+## realisé par 
 -azoug lina celia.
 -lekhdari dihia.
 -belkacem manil zouhir.
