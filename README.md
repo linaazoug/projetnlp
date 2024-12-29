@@ -12,6 +12,7 @@ et le fichier test.csv pour tester l'efficacité
 
 ## Utilisation : 
 clonez ce depot sur ordinateur 
+decompressez train.csv
 executer le code de l'interface : intrfaceeNLP.py
 
 ## realisé par : 
