@@ -15,9 +15,9 @@ clonez ce depot sur ordinateur
 executer le code de l'interface : intrfaceeNLP.py
 
 ## realisé par : 
-azoug lina celia
-lekhdari dihia
-belkacem manil zouhir
-berriche meriem 
+-azoug lina celia
+-lekhdari dihia
+-belkacem manil zouhir
+-berriche meriem 
 
 merci 
