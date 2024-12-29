@@ -1,14 +1,12 @@
 Projet 1 : 
 
-Ce projet utilise le fichiers CSV train.csv pour entrainer le modele
-et le fichier test.csv pour tester l'efficacité
+Ce projet utilise le fichier train.csv pour entrainer le modele
+et le fichier test.csv pour tester l'efficacité.
 
 ## Organisation des fichiers
 Contient les fichiers CSV.
 Contient les scripts Python.
 
-
-## Installez les bibliothèques listées dans `requirements.txt`.
 
 ## Utilisation 
 -clonez ce depot sur ordinateur.
